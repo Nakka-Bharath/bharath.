@@ -1,5 +1,5 @@
 
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Bharath 👋
 ### Aspiring Data Engineer | B.Tech 4th Year
 
 Passionate about building scalable, optimized data pipelines, wrangling complex datasets, and converting raw data into actionable business intelligence. Currently focusing on mastering Python, SQL, and Cloud Data Infrastructures for enterprise-level systems.
